@@ -1,6 +1,6 @@
 # CS4ALL - An experimental course to introduce folks to the fundamentals of CS using free and open-source tools and materials.
 
-The primary objective behind the first iteration of the course is to engage those who have time available during the times of the global pandemic to learn new widely thought-after skills in basic coding, scripting, data analysis and visualization. The course assumes no prior experience and all are welcome to join this experiment!
+The primary objective behind the first iteration of the course is to engage those who have time available during the times of the global pandemic to learn new widely thought-after skills in basic coding, scripting, data analysis and visualization. However, this course is not intended to be a coding bootcamp and force complex concepts in the briefest available time. Instead, we will focus on developing substantial understanding of what computer and data sciences are and build aset of skills sufficient to continue learning in a meaningful and applied way on your own. The course assumes no prior experience and all are welcome to join this experiment!
 
 Another goal set out by this project is to build a teaching workflow utilizing only a set of online resources which:
 1. require no software installation
@@ -17,4 +17,4 @@ Here's a brief list of the topics I am hoping to cover in this course:
 4. Visualizing results using matplotlib and seaborn
 5. Develop understanding of debugging principles and gain familiarity with the online community
 
-If you are interested in oining the course, please fill out a brief questionaire [here](https://docs.google.com/forms/d/1tnY1Zotixm9wrV1HKSjOUB-LGTogo9_gyC-FN0kwrzY/edit)
+If you are interested in joining the course, please fill out a brief questionaire [here](https://docs.google.com/forms/d/1tnY1Zotixm9wrV1HKSjOUB-LGTogo9_gyC-FN0kwrzY/edit)
